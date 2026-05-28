@@ -1,0 +1,6 @@
+monitors:
+  - name: HackerNews API
+    type: url
+    target: https://hacker-news.firebaseio.com/v0/topstories.json
+    interval_seconds: 300
+    alert_on: status_change
