@@ -3,6 +3,16 @@
 Multi-source monitoring with AI-powered smart alerts.
 Watches APIs, files, and URLs — fires Slack/email notifications with AI-generated context.
 
+## Portfolio Status
+
+**✅ Built** — this repository is the working implementation for the
+[AI Security Alert Triage](https://github.com/malikatemz/reimagined-octo-eureka/blob/main/ideas/it-security/ai-security-alert-triage.md)
+opportunity in the [AI SaaS Portfolio](https://github.com/malikatemz/reimagined-octo-eureka).
+
+**Verification (23 Nov 2026):** multi-source URL, API, and file monitors with AI change summaries and Slack/email dispatch; verified in the portfolio audit.
+
+---
+
 ## Features
 - Monitor any URL, API endpoint, or file for changes
 - AI summarises *what changed* and *why it matters*
